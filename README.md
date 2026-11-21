@@ -65,6 +65,68 @@ The event aims to improve student participation, confidence, teamwork, and commu
 11. Post-Event Report
 Record actual attendance, completed activities, winners, expenses, feedback, and suggestions after the event.
 - `activities.md` – activities and competitions
+1. Singing Competition
+Description: Individual participants perform a song.
+Requirements: Microphone, speaker, stage, and participant list.
+Coordinator: Music Committee.
+Preparation: Collect entries, arrange the performance order, and test audio equipment.
+Evaluation: Voice, presentation, and overall performance using announced criteria.
+2. Dance Competition
+Description: Students present solo or group dance performances.
+Requirements: Stage, music system, and performance list.
+Coordinator: Cultural Committee.
+Preparation: Confirm music files, duration, and stage entry/exit arrangements.
+Evaluation: Coordination, creativity, presentation, and time management.
+3. Drawing Competition
+Description: Participants create artwork on a topic announced by the organizers.
+Requirements: Paper, drawing materials, tables, and chairs.
+Coordinator: Fine Arts Committee.
+Preparation: Announce the topic and rules; arrange materials and submission time.
+Evaluation: Creativity, relevance, and presentation.
+4. Quiz Competition
+Description: Teams answer questions from the announced subjects.
+Requirements: Verified questions, answer sheets or presentation, timer, and microphone.
+Coordinator: Quiz Committee.
+Preparation: Prepare questions, verify answers, and explain the rules.
+Evaluation: Correct answers and score. Announce tie-break rules in advance.
+5. Fun Games
+Description: Short, inclusive games for student participation.
+Requirements: Suitable game materials and a suitable space.
+Coordinator: Games Committee.
+Preparation: Check that activities are safe, accessible, and suitable for the venue.
+Evaluation: Follow the rules announced for each game.
+General Rules
+Register before the deadline.
+Follow the coordinators' instructions.
+Respect participants, judges, and volunteers.
+Follow the announced time limit.
+Use only approved materials and equipment.
+Ask the event coordinator if any rule is unclear.
+Activity Tracking
+Activity
+Coordinator
+Status
+Notes
+Singing
+Music Committee
+Planned
+Confirm entries
+Dance
+Cultural Committee
+Planned
+Confirm audio
+Drawing
+Fine Arts Committee
+Planned
+Arrange materials
+Quiz
+Quiz Committee
+Planned
+Verify questions
+Fun Games
+Games Committee
+Planned
+Confirm venue
 - `budget.md` – estimated and actual expenses
 - `team-responsibilities.md` – team roles and tasks
 - `schedule.md` – event-day timetable
