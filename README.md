@@ -127,7 +127,86 @@ Fun Games
 Games Committee
 Planned
 Confirm venue
+
+
+
 - `budget.md` – estimated and actual expenses
+1. Purpose
+This file records the estimated and actual money required for the event. Spending must be approved by the faculty coordinator or college authority.
+2. Estimated Expenses
+No.
+Expense
+Estimated Amount (₹)
+1
+Stage and basic decoration
+2,000
+2
+Sound system support
+2,000
+3
+Certificates and printing
+1,000
+4
+Prizes and trophies
+2,500
+5
+Refreshments and drinking water
+2,000
+6
+Publicity materials
+1,000
+7
+General supplies
+1,000
+8
+Emergency reserve
+500
+
+Total Estimated Expense
+12,000
+These figures are examples only. Get quotations and approval before purchases.
+3. Funding Plan
+Source
+Expected Amount (₹)
+Confirmation
+College allocation
+8,000
+To be confirmed
+Approved sponsorship
+4,000
+To be confirmed
+Total Expected Funding
+12,000
+
+Do not mark sponsorship as confirmed until approval is received.
+4. Actual Expense Record
+Date
+Item
+Approved By
+Estimated (₹)
+Actual (₹)
+Receipt?
+To be entered
+To be entered
+To be entered
+0
+0
+No
+5. Budget Summary
+Total estimated expenses: ₹12,000 (sample)
+Total actual expenses: Update after purchases
+Total confirmed funding: Update after approval
+Remaining balance: Confirmed funding minus actual expenses
+6. Financial Guidelines
+Get approval before spending.
+Compare prices where possible.
+Keep bills and receipts.
+Record each expense promptly.
+Do not exceed the approved budget without permission.
+Submit the final expense statement to the faculty coordinator.
+7. Final Accounts
+Replace sample figures with actual figures after the event. Do not publish bank details or confidential financial information in a public repository.
+
 - `team-responsibilities.md` – team roles and tasks
 - `schedule.md` – event-day timetable
 - `feedback.md` – feedback form and summary
